@@ -2,3 +2,4 @@ Our favorite programming language is Golang!
 We also love to cooperate with C++!
 We talk to each other via gRPC!
 We use only HTTP2 connection!
+For database we use Postgres!
